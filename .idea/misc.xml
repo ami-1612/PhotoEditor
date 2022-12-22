@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_add__text_.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_draw_.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_emoji_.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_image__display_.xml" value="0.3619791666666667" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_main.xml" value="0.32037037037037036" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_rotate__crop_.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/activity_tune_.xml" value="0.3619791666666667" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/layout/custom_text_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/menu/rot_right_action.xml" value="0.36666666666666664" />
+        <entry key="..\:/android/PhotoEditor/app/src/main/res/xml/option_navigation_menu.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
